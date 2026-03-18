@@ -4,7 +4,7 @@ A full-stack web application demonstrating JWT-based authentication using ASP.NE
 
 ## Application URL
 
-Live Application: https://jwtauthentication.paweldywan.com/
+Live Application: https://jwtauthentication.paweldywandev.com/
 
 Development: https://localhost:7253
 
@@ -109,7 +109,7 @@ JwtAuthentication.Server
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/paweldywan/JwtAuthentication.git
+git clone https://github.com/paweldywandev/JwtAuthentication.git
 cd JwtAuthentication
 ```
 
@@ -182,7 +182,7 @@ docker run -p 8080:8080 -p 8081:8081 jwtauthentication
 
 For development and testing, a default user is automatically created:
 
-- Email/Username: `paweldywan@paweldywan.com`
+- Email/Username: `paweldywandev@paweldywandev.com`
 - Password: `P@ssw0rd`
 
 **Important:** Change or remove this user in production environments.
@@ -383,8 +383,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 **Pawel Dywan**
 
-- GitHub: [@paweldywan](https://github.com/paweldywan)
-- Website: https://paweldywan.com/
+- GitHub: [@paweldywandev](https://github.com/paweldywandev)
+- Website: https://paweldywandev.com/
 
 ## Acknowledgments
 
@@ -394,3 +394,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Vite team for the blazing fast build tool
 - PostgreSQL community for the robust database system
 - Bootstrap and Reactstrap teams for the UI components
+
